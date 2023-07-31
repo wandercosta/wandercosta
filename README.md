@@ -11,8 +11,6 @@
 </div>
 </p>
 </div>
-  
-
 <div>
  
  ## 👊Conquistas👊
