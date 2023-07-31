@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Jonas+Gabrieel;I'm+20+years+old;I'm+from+Brazil;I+Majoring+in+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Wander+Costa;Seja+Bem-BVindo!+:%29)](https://git.io/typing-svg)
  - 👨‍🎓Analista de Sistemas Nassau 
  - 📘Desenvolvedor Web 
 
