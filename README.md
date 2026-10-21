@@ -25,6 +25,7 @@ Desenvolvedor Full Stack com foco em **inteligência artificial aplicada ao jur�
 
 | Projeto | O que faz |
 |---------|-----------|
+| [modo-game](https://github.com/wandercosta/modo-game) | Um clique para liberar o PC antes de jogar e restaurar tudo depois (C#, WPF) |
 | [tunel](https://github.com/wandercosta/tunel) | Expõe portas locais na internet com Cloudflare Tunnel (Python) |
 | [simulador_r](https://github.com/wandercosta/simulador_r) | Simulador de Simples Nacional, Fator R e Reforma Tributária |
 
