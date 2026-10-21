@@ -29,4 +29,4 @@ Desenvolvedor Full Stack com foco em **inteligência artificial aplicada ao jur�
 | [tunel](https://github.com/wandercosta/tunel) | Expõe portas locais na internet com Cloudflare Tunnel (Python) |
 | [simulador_r](https://github.com/wandercosta/simulador_r) | Simulador de Simples Nacional, Fator R e Reforma Tributária |
 
-📫 [LinkedIn](https://www.linkedin.com/in/wander-costa-338666137) · Aracaju/SE
+📫 [LinkedIn](https://www.linkedin.com/in/wandercostadev) · Aracaju/SE
